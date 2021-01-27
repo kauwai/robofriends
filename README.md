@@ -12,6 +12,8 @@ This project was created using React and it consists of a search function that f
 
 This project came as a result of a ZTM lesson. However, I opted to use React's useState and useEffect instead of Lifecycle Components and Class States, since theformer are more modern.
 
+A live version of the project can be seen here: https://kauwai.github.io/robofriends/
+
 ## Technologies
 
 * [React - 17.0.1](https://reactjs.org/);
